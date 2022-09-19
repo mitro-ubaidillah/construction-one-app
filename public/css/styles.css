@@ -16,6 +16,7 @@
 
 body{
     font-family: 'Poppins', sans-serif;
+    padding: 0;
 }
 
 /* Header */
@@ -202,6 +203,61 @@ footer{
     padding-top: 80px;
     padding-bottom: 80px;
 }
+
+
+/* about page */
+
+.about-banner{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.background-one{
+    height: 50vh;
+}
+
+.background-two{
+    height: 50vh;
+    background-color: var(--secondary-color-trns);
+    /* padding: 0 100px; */
+    width: 100%;
+    margin: 0;
+}
+
+.about-banner h1{
+    text-align: center;
+    color:var(--primary-color);
+    font-weight: 500;
+}
+
+.image-about, .caption-about{
+    margin-top: -50vh;
+    /* margin-inline: auto; */
+}
+
+.image-about{
+    margin-right: 50px;
+    /* width: 100%; */
+}
+
+.image-about img{
+    border-radius: 20px;
+    width: min(100% - 1rem, 750px);
+    height: 500px;
+    object-fit: cover;
+}
+
+.caption-about p{
+    font-size: 4rem;
+    font-weight: 500;
+    color:var(--primary-color);
+}
+
+/* overview - about-page */
+.image-overview img{
+    width: min(100% - 1rem, 600px);
+}
+
 
 @media (max-width: 1200px) {
     .shape span{
