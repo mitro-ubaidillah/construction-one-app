@@ -258,6 +258,42 @@ footer{
     width: min(100% - 1rem, 600px);
 }
 
+/* visi misi - about-page */
+
+.vision-section{
+    background-color: var(--primary-color);
+    margin: 100px auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: white;
+}
+
+.vision-section h1{
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.vision-section ol li{
+    align-self: center;
+}
+
+.vision-section p {
+    line-height: 2;
+    text-align: justify;
+}
+
+/* team about-page */
+.team-section{
+    margin: 100px auto;
+    color: var(--primary-color);
+}
+
+.team-section h1{
+    text-align: center;
+    margin-bottom: 100px;
+    font-weight: 500;
+}
 
 @media (max-width: 1200px) {
     .shape span{

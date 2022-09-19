@@ -27,4 +27,52 @@
             </div>
         </div>
     </div>
+    <div class="vision-section">
+        <div class="container">
+            <div class="row justify-content-evenly">
+                <div class="col-md-4">
+                    <h1>Visi</h1>
+                    <ol>
+                        <li>lorem ipsum dolor lorem ipsum dolor lorem ipsum dolor</li>
+                        <li>lorem ipsum dolor lorem ipsum dolor lorem ipsum dolor</li>
+                        <li>lorem ipsum dolor lorem ipsum dolor lorem ipsum dolor</li>
+                        <li>lorem ipsum dolor lorem ipsum dolor lorem ipsum dolor</li>
+                        <li>lorem ipsum dolor lorem ipsum dolor lorem ipsum dolor</li>
+                    </ol>
+                </div>
+                <div class="col-md-4">
+                    <h1>Misi</h1>
+                    <p>
+                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default 
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="team-section">
+        <div class="container">
+            <h1>Tim Kami</h1>
+            <div class="row justify-content-evenly">
+                <div class="col-md-2">
+                    <figure class="figure">
+                        <img src="{{ asset('images/team/team1.jpg') }}" class="figure-img img-fluid" alt="...">
+                        <figcaption class="figure-caption text-center">A caption for the above image.</figcaption>
+                    </figure>
+                </div>
+                <div class="col-md-2">
+                    <figure class="figure">
+                        <img src="{{ asset('images/team/team2.jpg') }}" class="figure-img img-fluid" alt="...">
+                        <figcaption class="figure-caption text-center">A caption for the above image.</figcaption>
+                    </figure>
+                </div>
+                <div class="col-md-2">
+                    <figure class="figure">
+                        <img src="{{ asset('images/team/team3.jpg') }}" class="figure-img img-fluid" alt="...">
+                        <figcaption class="figure-caption text-center">A caption for the above image.</figcaption>
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
 @endsection
