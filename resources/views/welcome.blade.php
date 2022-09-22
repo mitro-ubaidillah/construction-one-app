@@ -1,23 +1,23 @@
 @extends('layouts.main')
 @section('main')
-<div class="container-fluid d-md-flex background-primary">
+<div class="container-fluid d-flex flex-wrap flex-collumn justify-content-evenly background-primary">
     <div class="shape align-self-center">
-        <span>Bangun <br> Rumah <br> Impian mu</span>
+        <span>Bangun Rumah Impian mu</span>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quidem tempora aliquam porro, eius exercitationem expedita modi eum voluptas laboriosam quam sed magni qui perspiciatis officiis explicabo esse non veniam?</p>
+        <a href="/about" class="btn btn-one">About Us</a>
     </div>
     <div class="img-banner">
-        <img src="{{ asset('images/image1.jpg') }}" alt="construction" srcset="">
+        <img src="{{ asset('images/image1.jpg') }}" alt="construction">
     </div>
 </div>
 <div class="desc-content">
-    <div class="d-flex flex-md-row flex-lg-row flex-sm-column flex-column-reverse flex-sm-column-reverse flex-warp">
+    <div class="d-flex flex-md-row flex-lg-row-reverse flex-sm-column flex-column-reverse flex-sm-column-reverse flex-warp justify-content-evenly">
         <div class="desc align-self-center">
+            <h1>Siapa Kami ?</h1>
             <p>kami adalah CV yang bergerak dibidang kontrusi dan renovasi interior ruangan. Kami juga melayani pembangunan non rumah atau non interior yang mana dengan sistem kontrak</p>
         </div>
         <div class="img-desc">
-            <img src="{{ asset('images/image 2.png') }}" alt="construction" srcset="">
-        </div>
-        <div class="title-desc align-self-center">
-            <h1>Siapa Kami ?</h1>
+            <img src="{{ asset('images/image 8.jpg') }}" alt="construction">
         </div>
     </div>
 </div>
