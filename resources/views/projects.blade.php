@@ -112,6 +112,15 @@
                                     <div class="card-body">
                                         <h4>Best Product</h4>
                                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis fugit reiciendis quaerat pariatur asperiores voluptas</p>
+                                        <div class="row">
+                                            <div class="col-md-4 col-lg-3">
+                                                <img src="{{ asset('images/profile.png') }}" alt="">
+                                            </div>
+                                            <div class="col-md-8">
+                                                <strong>Name</strong>
+                                                <p>Position</p>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -122,6 +131,15 @@
                                     <div class="card-body">
                                         <h4>Best Product</h4>
                                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis fugit reiciendis quaerat pariatur asperiores voluptas</p>
+                                        <div class="row">
+                                            <div class="col-md-4 col-lg-3">
+                                                <img src="{{ asset('images/profile.png') }}" alt="">
+                                            </div>
+                                            <div class="col-md-8">
+                                                <strong>Name</strong>
+                                                <p>Position</p>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -132,6 +150,15 @@
                                     <div class="card-body">
                                         <h4>Best Product</h4>
                                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis fugit reiciendis quaerat pariatur asperiores voluptas</p>
+                                        <div class="row">
+                                            <div class="col-md-4 col-lg-3">
+                                                <img src="{{ asset('images/profile.png') }}" alt="">
+                                            </div>
+                                            <div class="col-md-8">
+                                                <strong>Name</strong>
+                                                <p>Position</p>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>

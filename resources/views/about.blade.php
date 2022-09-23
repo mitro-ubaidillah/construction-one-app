@@ -1,20 +1,17 @@
 @extends('layouts.main')
 @section('main')
     <div class="about-banner">
-        <div class="background-one">
-            <h1>Tentang Kami</h1>
-        </div>
-        <div class="background-two row justify-content-center">
-            <div class="image-about col-lg-6 offset-lg-1 align-self-center">
-                <img src="{{ asset('images/image 7.jpg') }}" alt="about">
-            </div>
-            <div class="caption-about col-lg-4 align-self-center">
-                <p>CV Mandala Jaya Solusi Bangunan Anda</p>
-            </div>
+        <div class="about-banner-item">
+            <h1>"Kami membantu tentang solusi bangunan anda"</h1>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi fuga, nulla libero quis asperiores alias, officia temporibus vel itaque eius labore eum ut! Quia obcaecati dolorem, optio tenetur blanditiis quo.
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur id, in quibusdam neque non molestiae, consectetur temporibus eum dolorum at, provident harum totam nemo. Voluptatibus, neque facere. Eum, quidem exercitationem!
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit cupiditate blanditiis itaque, doloribus assumenda sed iure rerum aperiam mollitia eum. Libero reprehenderit at, odit voluptas voluptatem sint repellat dolorum omnis?
+            </p>
         </div>
     </div>
     
-    <div class="container">
+    {{-- <div class="container">
         <div class="overview d-flex flex-wrap flex-column-reverse flex-lg-row">
             <div class="content-overview w-50 px-5">
                 <h1>Overview</h1>
@@ -26,7 +23,7 @@
                 <img src="{{ asset('images/image 8.jpg') }}" alt="overview">
             </div>
         </div>
-    </div>
+    </div> --}}
     <div class="vision-section">
         <div class="container">
             <div class="row justify-content-evenly">

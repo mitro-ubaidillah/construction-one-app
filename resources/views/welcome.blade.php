@@ -17,7 +17,7 @@
             <p>kami adalah CV yang bergerak dibidang kontrusi dan renovasi interior ruangan. Kami juga melayani pembangunan non rumah atau non interior yang mana dengan sistem kontrak</p>
         </div>
         <div class="img-desc">
-            <img src="{{ asset('images/image 8.jpg') }}" alt="construction">
+            <img src="{{ asset('images/image8.jpg') }}" alt="construction">
         </div>
     </div>
 </div>

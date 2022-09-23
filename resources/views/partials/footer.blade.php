@@ -22,7 +22,7 @@
                 </div>
             </div>
             <div class="col-lg-3 col-md-12 address-footer">
-                <h5>CV. Mandala Jaya</h5>
+                <h5>CV. Grahari Group</h5>
                 <p>Jln Bengawan Solo No 6 Kauman, Kota Blitar</p>
             </div>
         </div>

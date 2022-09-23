@@ -25,7 +25,7 @@
                             </p>
                             <p>Lodoyo, Kec Kanigoro Jawa Timur Indonesia</p>
                             <p><strong>Company Name</strong></p>
-                            <p>CV Manda Jaya Indah</p>
+                            <p>CV Grahari Group</p>
                         </div>
                         <div class="col-md-3">
                             <img src="{{ asset('images/icons/wa1.png') }}" class="icon-conctacts" alt="whatsapp">

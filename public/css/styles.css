@@ -190,6 +190,7 @@ body{
 
 .section-contact .card .card-body h5{
     color: var(--primary-color);
+    /* color: white; */
     font-weight: 700;
     margin-bottom: 40px;
 }
@@ -216,48 +217,32 @@ footer{
 
 .about-banner{
     margin-top: 50px;
-    margin-bottom: 100px;
+    /* margin-bottom: 100px; */
+    background: url(../images/image8.jpg);
+    background-color: rgba(0,0,0,0.5);
+    background-blend-mode: soft-light;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: top;
+    padding: 100px;
 }
 
-.background-one{
-    height: 50vh;
-}
-
-.background-two{
-    height: 50vh;
-    background-color: var(--secondary-color-trns);
-    /* padding: 0 100px; */
-    width: 100%;
-    margin: 0;
-}
-
-.about-banner h1{
+.about-banner-item{
+    width: min(100% - 3rem, 650px);
+    margin-inline: auto;
     text-align: center;
-    color:var(--primary-color);
-    font-weight: 500;
 }
 
-.image-about, .caption-about{
-    margin-top: -50vh;
-    /* margin-inline: auto; */
+.about-banner-item h1{
+    font-size: 3.3rem;
+    color: white;
+    margin-bottom: 20px;
 }
 
-.image-about{
-    margin-right: 50px;
-    /* width: 100%; */
-}
-
-.image-about img{
-    border-radius: 20px;
-    width: min(100% - 1rem, 750px);
-    height: 500px;
-    object-fit: cover;
-}
-
-.caption-about p{
-    font-size: 4rem;
-    font-weight: 500;
-    color:var(--primary-color);
+.about-banner-item p{
+    color: white;
+    font-size: 1rem;
+    line-height: 2;
 }
 
 /* overview - about-page */
@@ -269,7 +254,7 @@ footer{
 
 .vision-section{
     background-color: var(--primary-color);
-    margin: 100px auto;
+    margin: 0px auto;
     padding-top: 50px;
     padding-bottom: 50px;
     color: white;
@@ -333,6 +318,31 @@ footer{
     margin-top: 50px;
     margin-bottom: 50px;
 }
+
+.testimonial-section{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.testimonial-section h1 {
+    margin-bottom: 30px;
+}
+
+#testimoni{
+    border: solid 1px var(--primary-color);
+    padding: 50px 100px;
+}
+
+#testimoni .card:first-child {
+    border: none;
+    /* margin-left: 100px; */
+}
+
+.carousel-control-prev, .carousel-control-next {
+    width: 5%!important;
+}
+
+
 
 
 /* contact-page */
@@ -413,6 +423,11 @@ footer{
 
     .service-section{
         padding-top: 50px;
+    }
+
+    #testimoni{
+        border: solid 1px var(--primary-color);
+        padding: 50px;
     }
 }
 
