@@ -15,21 +15,21 @@
                     <div class="col-md-4">
                         <div class="card">
                             <div class="card-img">
-                                <img src="{{ asset('images/interior1.jpg') }}" class="img-fluid">
+                                <img src="{{ asset('images/interior1.jpeg') }}" class="img-fluid">
                             </div>
                         </div>
                     </div>       
                     <div class="col-md-4">
                         <div class="card">
                             <div class="card-img">
-                                <img src="{{ asset('images/interior2.jpg') }}" class="img-fluid">
+                                <img src="{{ asset('images/interior2.jpeg') }}" class="img-fluid">
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="card">
                             <div class="card-img">
-                                <img src="{{ asset('images/interior3.jpg') }}" class="img-fluid">
+                                <img src="{{ asset('images/interior3.jpeg') }}" class="img-fluid">
                             </div>
                         </div>
                     </div>
@@ -46,21 +46,21 @@
                     <div class="col-md-4">
                         <div class="card">
                             <div class="card-img">
-                                <img src="{{ asset('images/house1.jpg') }}" class="img-fluid">
+                                <img src="{{ asset('images/house1.jpeg') }}" class="img-fluid">
                             </div>
                         </div>
                     </div>        
                     <div class="col-md-4">
                         <div class="card">
                             <div class="card-img">
-                                <img src="{{ asset('images/house2.jpg') }}" class="img-fluid">
+                                <img src="{{ asset('images/house2.jpeg') }}" class="img-fluid">
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="card">
                             <div class="card-img">
-                                <img src="{{ asset('images/house3.jpg') }}" class="img-fluid">
+                                <img src="{{ asset('images/house3.jpeg') }}" class="img-fluid">
                             </div>
                         </div>
                     </div>
@@ -77,21 +77,21 @@
                     <div class="col-md-4">
                         <div class="card">
                             <div class="card-img">
-                                <img src="{{ asset('images/house1.jpg') }}" class="img-fluid">
+                                <img src="{{ asset('images/pool1.jpeg') }}" class="img-fluid">
                             </div>
                         </div>
                     </div>      
                     <div class="col-md-4">
                         <div class="card">
                             <div class="card-img">
-                                <img src="{{ asset('images/house2.jpg') }}" class="img-fluid">
+                                <img src="{{ asset('images/taman.jpeg') }}" class="img-fluid">
                             </div>
                         </div>
                     </div>        
                     <div class="col-md-4">
                         <div class="card">
                             <div class="card-img">
-                                <img src="{{ asset('images/house3.jpg') }}" class="img-fluid">
+                                <img src="{{ asset('images/pool2.jpeg') }}" class="img-fluid">
                             </div>
                         </div>
                     </div>

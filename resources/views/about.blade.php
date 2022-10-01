@@ -4,9 +4,10 @@
         <div class="about-banner-item">
             <h1>"Kami membantu tentang solusi bangunan anda"</h1>
             <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi fuga, nulla libero quis asperiores alias, officia temporibus vel itaque eius labore eum ut! Quia obcaecati dolorem, optio tenetur blanditiis quo.
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur id, in quibusdam neque non molestiae, consectetur temporibus eum dolorum at, provident harum totam nemo. Voluptatibus, neque facere. Eum, quidem exercitationem!
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit cupiditate blanditiis itaque, doloribus assumenda sed iure rerum aperiam mollitia eum. Libero reprehenderit at, odit voluptas voluptatem sint repellat dolorum omnis?
+                Kami merupakan penyedia Jasa Kontruksi Bangunan siap memberikan design bangunan yang fresh, modern, dan pastinya sesuai dengan keinginan client
+                <br>
+                Dengan pengalaman yang kami miliki, kami yakin dapat memberikan pelayanan dan jasa yang memuaskan bagi para klien kami. Klien terima jadi dan dapat memantau
+                progres pelaksanaan di lokasi pekerjaan.
             </p>
         </div>
     </div>
@@ -26,22 +27,29 @@
     </div> --}}
     <div class="vision-section">
         <div class="container">
-            <div class="row justify-content-evenly">
-                <div class="col-md-4">
-                    <h1>Visi</h1>
-                    <ol>
-                        <li>lorem ipsum dolor lorem ipsum dolor lorem ipsum dolor</li>
-                        <li>lorem ipsum dolor lorem ipsum dolor lorem ipsum dolor</li>
-                        <li>lorem ipsum dolor lorem ipsum dolor lorem ipsum dolor</li>
-                        <li>lorem ipsum dolor lorem ipsum dolor lorem ipsum dolor</li>
-                        <li>lorem ipsum dolor lorem ipsum dolor lorem ipsum dolor</li>
-                    </ol>
-                </div>
-                <div class="col-md-4">
-                    <h1>Misi</h1>
-                    <p>
-                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default 
-                    </p>
+            <div class="row justify-content-center">
+                <div class="col-md-9">
+                    <h2 class="text-center">Layanan yang kami berikan</h2>
+                    <div class="row justify-content-between">
+                        <div class="col-md-4 p-4">
+                            <ul>
+                                <li>Pembangunan Rumah Tinggal</li>
+                                <li>Renovasi Rumah Tinggal</li>
+                                <li>Gedung Bertingkat</li>
+                                <li>Pembangunan Masjid</li>
+                                <li>Pembangunan Cafe</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4 p-4">
+                            <ul>
+                                <li>Pembangunan Kos</li>
+                                <li>Pembangunan Ruko</li>
+                                <li>Pembangunan Perumahan</li>
+                                <li>Pembangunan Taman</li>
+                                <li>Pembangunan Kolam</li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

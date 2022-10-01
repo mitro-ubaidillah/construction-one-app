@@ -3,11 +3,11 @@
 <div class="container-fluid d-flex flex-wrap flex-collumn justify-content-evenly background-primary">
     <div class="shape align-self-center">
         <span>Bangun Rumah Impian mu</span>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quidem tempora aliquam porro, eius exercitationem expedita modi eum voluptas laboriosam quam sed magni qui perspiciatis officiis explicabo esse non veniam?</p>
+        <p>Kamu dapat merancang dan menentukan anggaran pada rumah impian mu mulai dari sekarang</p>
         <a href="/about" class="btn btn-one">About Us</a>
     </div>
     <div class="img-banner">
-        <img src="{{ asset('images/image1.jpg') }}" alt="construction">
+        <img src="{{ asset('images/image1.jpeg') }}" alt="construction">
     </div>
 </div>
 <div class="desc-content">
@@ -17,7 +17,7 @@
             <p>kami adalah CV yang bergerak dibidang kontrusi dan renovasi interior ruangan. Kami juga melayani pembangunan non rumah atau non interior yang mana dengan sistem kontrak</p>
         </div>
         <div class="img-desc">
-            <img src="{{ asset('images/image8.jpg') }}" alt="construction">
+            <img src="{{ asset('images/image8.jpeg') }}" alt="construction">
         </div>
     </div>
 </div>
@@ -26,31 +26,33 @@
     <div class="service-section d-flex flex-wrap flex-row align-items-center justify-content-center justify-content-between text-center">
         <div class="service-item align-self-center">
             <figure>
-                <img src="{{ asset('images/icons/dollar.png') }}" alt="money">
-                <figcaption>Biaya Terjangkau</figcaption>
+                <img src="{{ asset('images/icons/tie.png') }}" alt="money">
+                <figcaption>Profesional</figcaption>
             </figure>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam reprehenderit consectetur repudiandae ipsa tempora ullam beatae nostrum, illo eligendi ut adipisci sequi obcaecati in illum quis asperiores nihil modi nisi?</p>
         </div>
         <div class="service-item align-self-center">
             <figure>
                 <img src="{{ asset('images/icons/clock.png') }}" alt="time">
-                <figcaption>Waktu Pengerjaan Cepat</figcaption>
+                <figcaption>Pengerjaan Tepat Waktu</figcaption>
             </figure>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam reprehenderit consectetur repudiandae ipsa tempora ullam beatae nostrum, illo eligendi ut adipisci sequi obcaecati in illum quis asperiores nihil modi nisi?</p>
         </div>
         <div class="service-item align-self-center">
             <figure>
-                <img src="{{ asset('images/icons/medal.png') }}" alt="quality">
-                <figcaption>Kualitas Material Terjamin</figcaption>
+                <img src="{{ asset('images/icons/puas.png') }}" alt="quality">
+                <figcaption>Hasil Memuaskan</figcaption>
             </figure>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam reprehenderit consectetur repudiandae ipsa tempora ullam beatae nostrum, illo eligendi ut adipisci sequi obcaecati in illum quis asperiores nihil modi nisi?</p>
         </div>
         <div class="service-item align-self-center">
             <figure>
                 <img src="{{ asset('images/icons/shield.png') }}" alt="strong">
-                <figcaption>Bangunan Kuat</figcaption>
+                <figcaption>Struktur Aman & Nyaman</figcaption>
             </figure>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam reprehenderit consectetur repudiandae ipsa tempora ullam beatae nostrum, illo eligendi ut adipisci sequi obcaecati in illum quis asperiores nihil modi nisi?</p>
+        </div>
+        <div class="service-item align-self-center">
+            <figure>
+                <img src="{{ asset('images/icons/help.png') }}" alt="strong">
+                <figcaption>Siap Membantu Mengurus IMB</figcaption>
+            </figure>
         </div>
     </div>
 </div>
@@ -61,29 +63,30 @@
         <div class="row justify-content-center">
             <div class="col-lg-5 col-md-12 mb-4 mb-lg-0">
                 <img
-                  src="{{ asset('images/image 4.jpg') }}"
+                  src="{{ asset('images/image4.jpeg') }}"
                   class="w-100 shadow-1-strong rounded mb-4 item-project"
-                  alt="Boat on Calm Water"
+                  alt="house"
                 />
             
                 <img
-                  src="{{ asset('images/image 6.jpg') }}"
+                  src="{{ asset('images/image5.jpeg') }}"
                   class="w-100 shadow-1-strong rounded mb-4 item-project"
-                  alt="Wintry Mountain Landscape"
+                  alt="interior"
                 />
               </div>
             
               <div class="col-lg-5 mb-4 mb-lg-0">
                 <img
-                  src="{{ asset('images/image 3.jpg') }}"
+                  src="{{ asset('images/image3.jpeg') }}"
                   class="w-100 shadow-1-strong rounded mb-4 item-project"
-                  alt="Mountains in the Clouds"
+                  alt="interior"
                 />
             
+                
                 <img
-                  src="{{ asset('images/image 5.jpg') }}"
-                  class="w-100 shadow-1-strong rounded mb-4 item-project"
-                  alt="Boat on Calm Water"
+                src="{{ asset('images/image6.jpeg') }}"
+                class="w-100 shadow-1-strong rounded mb-4 item-project"
+                alt="house"
                 />
               </div>
         </div>
@@ -95,7 +98,7 @@
         <div class="card">
             <div class="card-body">
                 <h5>Kamu dapat menghubungi kami disini!</h5>
-                <a href="wa.me/" class="btn" target="_blank">Hubungi Admin</a>
+                <a href="wa.me/" class="btn btn-one" target="_blank">Hubungi Admin</a>
             </div>
         </div>
     </div>
