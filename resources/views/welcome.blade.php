@@ -1,12 +1,12 @@
 @extends('layouts.main')
 @section('main')
-<div class="container-fluid d-flex flex-wrap flex-collumn justify-content-evenly background-primary">
+<div class="container-fluid d-flex flex-wrap flex-md-row flex-sm-collumn background-primary">
     <div class="shape align-self-center">
         <span>Bangun Rumah Impian mu</span>
         <p>Kamu dapat merancang dan menentukan anggaran pada rumah impian mu mulai dari sekarang</p>
         <a href="/about" class="btn btn-one">About Us</a>
     </div>
-    <div class="img-banner">
+    <div class="img-banner align-self-sm-center p-4 p-md-0">
         <img src="{{ asset('images/image1.jpeg') }}" alt="construction">
     </div>
 </div>
