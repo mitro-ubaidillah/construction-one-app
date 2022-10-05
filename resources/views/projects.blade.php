@@ -109,15 +109,15 @@
                             <div class="col-md-4">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4>Best Product</h4>
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis fugit reiciendis quaerat pariatur asperiores voluptas</p>
+                                        <h4>Desain Oke</h4>
+                                        <p>Pengerjaan interior sangat oke serta hasilnya sangat memuaskan, banyak pilihan desain dan bisa juga sepaket dengan interior yang dibutuhkan. Dijamin Puas</p>
                                         <div class="row">
                                             <div class="col-md-4 col-lg-3">
                                                 <img src="{{ asset('images/profile.png') }}" alt="">
                                             </div>
                                             <div class="col-md-8">
-                                                <strong>Name</strong>
-                                                <p>Position</p>
+                                                <strong>Ubaidillah</strong>
+                                                <p>IT Konsultan</p>
                                             </div>
                                         </div>
                                     </div>
@@ -128,15 +128,15 @@
                             <div class="col-md-4">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4>Best Product</h4>
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis fugit reiciendis quaerat pariatur asperiores voluptas</p>
+                                        <h4>Pengerjaan cepat</h4>
+                                        <p>Pengerjaan proyek sangat cepat dan bisa selesai sesuai dengan jadwal, bahan yang digunakan juga sesuai dengan spesifikasi yang ditentukan serta admin ramah</p>
                                         <div class="row">
                                             <div class="col-md-4 col-lg-3">
                                                 <img src="{{ asset('images/profile.png') }}" alt="">
                                             </div>
                                             <div class="col-md-8">
-                                                <strong>Name</strong>
-                                                <p>Position</p>
+                                                <strong>Elsa</strong>
+                                                <p></p>
                                             </div>
                                         </div>
                                     </div>
@@ -147,15 +147,15 @@
                             <div class="col-md-4">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4>Best Product</h4>
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis fugit reiciendis quaerat pariatur asperiores voluptas</p>
+                                        <h4>Pengerjaan profesional</h4>
+                                        <p>Hasil pengerjaan yang bagus dan sesuai dengan apa yang ada digambar, tidak diragukan lagi serta pekerja kontruksi berpengalaman juga</p>
                                         <div class="row">
                                             <div class="col-md-4 col-lg-3">
                                                 <img src="{{ asset('images/profile.png') }}" alt="">
                                             </div>
                                             <div class="col-md-8">
-                                                <strong>Name</strong>
-                                                <p>Position</p>
+                                                <strong>Ahmad</strong>
+                                                <p>Arsitek</p>
                                             </div>
                                         </div>
                                     </div>

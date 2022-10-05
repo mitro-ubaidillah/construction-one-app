@@ -675,6 +675,9 @@ footer{
     #testimoni {
         padding-left: 20px;
         padding-right: 20px;
+        padding-top: 0;
+        padding-bottom: 0;
+        height: 350px;
     }
 
     .about-banner-item h1 {
