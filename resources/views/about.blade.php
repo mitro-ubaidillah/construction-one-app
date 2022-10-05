@@ -55,7 +55,7 @@
         </div>
     </div>
 
-    <div class="team-section">
+    {{-- <div class="team-section">
         <div class="container">
             <h1>Tim Kami</h1>
             <div class="row justify-content-evenly">
@@ -79,5 +79,5 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
 @endsection

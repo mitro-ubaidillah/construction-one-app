@@ -2,7 +2,6 @@
 @section('main')
     <div class="projects-banner">
         <h1>Projek Kami</h1>
-        <img src="{{ asset('images/background-projects.jpg') }}" alt="background">
     </div>
     <div class="container">
         <div class="projects-section">
